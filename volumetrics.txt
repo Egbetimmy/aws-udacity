@@ -1,0 +1,5 @@
+wells	reservoir_thickness	porosity	net_to_gross	hydrocarbon_saturation
+Well 1	80.3	0.2162	0.9994	0.6849
+Well 2	50.9	0.2412	0.9995	0.6571
+Well 3	69.97	0.2441	0.9997	0.8587
+Well 4	37	0.2594	0.9998	0.5984
